@@ -539,7 +539,7 @@ Sensor → HEALTHY
 The demonstration video is available in:
 
 ```text
-results/device/fault_detection/
+results/fault_detection/
 ```
 
 ---
