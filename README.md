@@ -690,10 +690,6 @@ pollusensecheck-air-quality-validation/
 │   │
 │   └── hardware/
 │
-├── media/
-│   ├── images/
-│   ├── gifs/
-│   └── video/
 │
 └── future_work/
 ```
