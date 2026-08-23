@@ -29,7 +29,7 @@ The system uses:
 * OLED and serial status reporting
 * SD-card data logging
 
-The final embedded system runs on an **ESP32-S3** using the **ESP-IDF** framework.
+The final embedded system runs on an **ESP32-S3-WROOM-1** using the **ESP-IDF** framework.
 
 ---
 
